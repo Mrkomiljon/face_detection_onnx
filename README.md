@@ -98,27 +98,27 @@ You can use this script to detect faces in images, videos, or live camera feeds.
 To run face detection on a single image:
 
 ```bash
-python script_name.py --image path_to_image.jpg --output output_image.jpg
+python crop.py --image path_to_image.jpg --output output_image.jpg
 ```
 2. Video Detection
 To run face detection on a video file:
 
 ```bash
-python script_name.py --video path_to_video.mp4 --output output_video.mp4
+python crop.py --video path_to_video.mp4 --output output_video.mp4
 ```
 3. Live Camera Detection
 To run face detection using your webcam:
 
 ```bash
-python script_name.py --camera 0 --output output_video.mp4
+python crop.py --camera 0 --output output_video.mp4
 ```
 Note: Replace 0 with the appropriate camera index if you have multiple cameras.
 
 Command-Line Arguments
---image: Path to the image file.
---video: Path to the video file.
---camera: Camera index for capturing video.
---output: Path to save the output image or video.
+* --image: Path to the image file.
+* --video: Path to the video file.
+* --camera: Camera index for capturing video.
+* --output: Path to save the output image or video.
 # Output
 The script will output the processed images or videos with detected faces and keypoints drawn. The results can be saved to disk or displayed in a window.
 
