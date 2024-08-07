@@ -1,9 +1,9 @@
 # SCRFD Face Detection
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2421178b-2923-4ce1-a5cb-8c4e43baa1e7" alt="Image 1" width="300" height="300" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/c65bd65e-55e4-4f9d-8b1a-0b9f65768ccd" alt="Image 2" width="300" height="300" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/069df4a3-cea5-492c-9917-81ed8f3d47a5" alt="Image 3" width="300" height="300" />
+  <img src="https://github.com/user-attachments/assets/2421178b-2923-4ce1-a5cb-8c4e43baa1e7" alt="Image 1" width="200" height="200" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/c65bd65e-55e4-4f9d-8b1a-0b9f65768ccd" alt="Image 2" width="200" height="200" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/069df4a3-cea5-492c-9917-81ed8f3d47a5" alt="Image 3" width="200" height="200" />
 </div>
 
 This repository contains an implementation of face detection using the SCRFD model, which is a fast and lightweight face detection model designed for edge devices. The implementation utilizes the ONNX format for the model and leverages OpenCV for image and video processing.
