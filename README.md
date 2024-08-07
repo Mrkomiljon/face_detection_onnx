@@ -132,4 +132,5 @@ The script will output the processed images or videos with detected faces and ke
 [InsightFace](https://github.com/deepinsight/insightface) for the SCRFD model.
 
 [ONNXRuntime](https://github.com/microsoft/onnxruntime) for providing the inference engine.
+
 [Face Analysis](https://github.com/yakhyo/facial-analysis)
