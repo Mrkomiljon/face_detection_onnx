@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/e01abdb1-9801-4c14-8c8b-4229cac5c1df
 
 [Source video](https://www.pexels.com/video/video-of-women-dancing-3873059/)
 
-## Features
+>[!Features]
 
 - **Efficient Face Detection**: Detects faces with high accuracy and speed.
 - **Support for Keypoints**: Detects facial landmarks for better face alignment.
