@@ -11,10 +11,14 @@ This repository contains an implementation of face detection using the SCRFD mod
 ![output_video mp4](https://github.com/user-attachments/assets/d5b9f37c-6e70-4d3c-8b2a-e3f1683ec722)
 
 
-https://github.com/user-attachments/assets/e8ac68e8-a7a2-4165-af37-35c6f20935b7
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/68d036c8-b5ff-498e-96ce-7e8e26983878" alt="Project Preview">
+</div>
 
-https://github.com/user-attachments/assets/e01abdb1-9801-4c14-8c8b-4229cac5c1df
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7730b292-4fc6-40fd-bb5d-390debe5c7e6" alt="Project Preview">
+</div>
 
 
 [Source video](https://www.pexels.com/video/video-of-women-dancing-3873059/)
